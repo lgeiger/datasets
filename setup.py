@@ -116,6 +116,7 @@ DATASET_EXTRAS = {
     ],
     'groove': ['pretty_midi', 'pydub'],
     'librispeech': ['pydub'],  # and ffmpeg installed
+    'nyu_depth_v2': ['Pillow'],
     'pet_finder': ['pandas'],
     'svhn': ['scipy'],
     'wikipedia': ['mwparserfromhell', 'apache_beam'],
